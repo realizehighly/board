@@ -48,6 +48,8 @@ class ReplyRepositoryTests {
         System.out.println(reply);
 
         System.out.println(reply.getBoard());
+
+        System.out.println(reply);
     }
 
     @Test
